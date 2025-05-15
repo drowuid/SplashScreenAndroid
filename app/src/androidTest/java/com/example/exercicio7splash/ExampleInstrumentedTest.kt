@@ -1,4 +1,4 @@
-package com.example.testemultiplasactivities
+package com.example.exercicio7splash
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.testemultiplasactivities", appContext.packageName)
+        assertEquals("com.example.exercicio7splash", appContext.packageName)
     }
 }

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.testemultiplasactivities"
+    namespace = "com.example.exercicio7splash"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.testemultiplasactivities"
+        applicationId = "com.example.exercicio7splash"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -33,7 +33,8 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
-    viewBinding{
+
+    viewBinding {
         enable=true
     }
 }

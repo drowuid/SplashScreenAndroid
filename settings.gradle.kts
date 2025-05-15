@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TesteMultiplasActivities"
+rootProject.name = "Exercicio7Splash"
 include(":app")
- 

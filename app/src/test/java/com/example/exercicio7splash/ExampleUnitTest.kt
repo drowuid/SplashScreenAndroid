@@ -1,4 +1,4 @@
-package com.example.testemultiplasactivities
+package com.example.exercicio7splash
 
 import org.junit.Test
 
